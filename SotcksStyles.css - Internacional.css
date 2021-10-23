@@ -1,0 +1,46 @@
+<style type="text/css">
+.row {
+  top: 2px;
+  width: 200px;
+  position:relative;
+  background-color:;
+  z-index:;
+  padding: 2px;
+}
+.row-type{
+  text-align: center;
+  font-size: 20px;"
+  position:absolute;
+  font-family: Palatino Linotype,Georgia, "Times New Roman", Times, serif;
+  height: ;
+  width:100%;
+  padding: 0px;
+    }
+
+
+#row2 {
+  top: 20px;
+  position:relative;
+  background-color: white;
+  z-index:-1;
+  height:340px;}
+
+#row3 {
+  top: 0px;
+  position:relative;
+  background-color:;
+  z-index:;
+  padding: 0px;
+  }
+
+#row5 {
+  top: 0px;
+  position:relative;
+  background-color:;
+  z-index:;
+  padding: 0px;
+  }
+footer{
+  position: relative;
+}
+</style>
